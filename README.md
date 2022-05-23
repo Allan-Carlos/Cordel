@@ -7,4 +7,4 @@ Esse é um projeto, que fiz com a ajuda do <a href="https://www.youtube.com/c/Cu
 
 Veja como ficou:
   
-  <img href="https://imgur.com/gFEcrwW.png">
+  <img href="https://imgur.com/gFEcrwW.png"></img>
